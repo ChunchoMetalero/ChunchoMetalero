@@ -1,6 +1,6 @@
 ### Hello there 👋
 ## 💬 About me 💬
-I'm a 21 y.o. Computer Science student currently studying at [Universidad de Chile](https://uchile.cl), [FCFM](https://ingenieria.uchile.cl), within the [CS Department](https://www.dcc.uchile.cl).
+I'm a 22 y.o. Computer Science student currently studying at [Universidad de Chile](https://uchile.cl), [FCFM](https://ingenieria.uchile.cl), within the [CS Department](https://www.dcc.uchile.cl).
 
 ## ⚡Topics⚡
 Some of the topics I'm interested in:
@@ -8,9 +8,9 @@ Some of the topics I'm interested in:
 - 💻 Software Engineering
 - 🧠 Artificial Intelligence
 - 🤖 Robotics
+- 📶 Web development
 - 🎮 Videogame developing
 - ⚙️ Process Optimization/Automatization
-- 📶 Web development
 - 📊 Data Science
 
 ## 💾 Tools 💾
